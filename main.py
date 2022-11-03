@@ -3,4 +3,4 @@ def my_function(fname, lname):
   print(f"My first name is {fname} and my last name is {lname}.")
 
 my_function("Auberon", "López")
-
+my_function("LP", "Wilson")
